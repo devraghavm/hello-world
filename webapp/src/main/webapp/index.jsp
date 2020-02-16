@@ -5,4 +5,5 @@
 <h2> Testing Ansible Build Through Jenkins And PollSCM With Stop, Remove and Rebuild logic </h2>
 <h2> Testing Ansible Build, DockerHub Push, Deploy Application In Container On Target Hosts </h2>
 <h2> Deploying on kubernetes using Ansible build </h2>
-<h2> Deploying on kubernetes using Ansible build with kubectl Rollout feature </h2> 
+<h2> Deploying on kubernetes using Ansible build with kubectl Rollout feature </h2>
+<h2> A complete CI/CD Example </h2> 
